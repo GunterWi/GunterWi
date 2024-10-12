@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc Thai</h1>
-<h3 align="center">A passionate Game| Game developer</h3>
+<h3 align="center">:school: I am attending <a href="https://www.ntu.edu.vn/">Nha Trang University</a>, majoring in <a href="https://khoacntt.ntu.edu.vn/">Information Technology</a>.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
